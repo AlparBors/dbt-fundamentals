@@ -1,0 +1,1 @@
+{{ union_tables_by_prefix('analytics','dbt_abors','stg') }}
